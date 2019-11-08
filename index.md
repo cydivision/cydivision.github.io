@@ -5,6 +5,4 @@
  \___| \__, | \__,_| _|   \_/   _| ____/ _| \___/  _|  _|
        ____/  
 ```       
-       
 sebastian@cydivision.com
-[Send email](mailto:user@example.com)
